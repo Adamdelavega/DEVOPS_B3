@@ -2,7 +2,7 @@
 
 **INITIALISATION DU PROJET**
 
-![](/img/img_1.png)
+![](./img/img_1.png)
 
 **FAIRE LES COMMANDES SUIVANTES**
 -  npm install express
