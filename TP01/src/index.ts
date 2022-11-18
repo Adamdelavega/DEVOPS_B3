@@ -1,7 +1,6 @@
 import express from 'express';
 const app = express();
 const port = 8000;
-const httpMethod = 'GET';
 const route = '/ping';
 
 app.get('/:path', (req, res) => {
