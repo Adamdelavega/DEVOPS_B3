@@ -481,5 +481,3 @@ Total: 81 (UNKNOWN: 0, LOW: 61, MEDIUM: 8, HIGH: 10, CRITICAL: 2)
 - Pour lancer le projet faire "sudo docker run -p 8000:8000 imageapi"
 - A l'aide de votre navigateur ou de curl, faire une requête get sur une des interfaces de votre pc sur le port affiché en console pour la route "/ping"
 - Si ces trois conditions ne sont pas respectés, vous aurez une erreur 404 vide
-
-**IMAGE MULTI STAGE**
